@@ -1,0 +1,21 @@
+@startuml
+
+Class SimulationManager
+Class Scheduler
+Interface Strategy
+Class ConcreteStrategyQueue implements Strategy
+Class ContreteStrategyTime implements Strategy
+Class Task
+Class Server
+Class Controller
+Class SimulationFrame
+Enum SelectionPolicy
+SimulationManager  --> Scheduler
+Scheduler --> Strategy
+Task --* Server
+Server --* Scheduler
+Schedular --o SimulationManager
+Controller --o SimulationFrame
+SimulationManager --o Controller
+SelectionPolicy -- SimulationManager
+@enduml
