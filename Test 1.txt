@@ -1,0 +1,127 @@
+
+Time: 0
+Waiting: (Arrival: 10, service: 3)(Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+
+Time: 1
+Waiting: (Arrival: 10, service: 3)(Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+
+Time: 2
+Waiting: (Arrival: 10, service: 3)(Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+
+Time: 3
+Waiting: (Arrival: 10, service: 3)(Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+
+Time: 4
+Waiting: (Arrival: 10, service: 3)(Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+
+Time: 5
+Waiting: (Arrival: 10, service: 3)(Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+
+Time: 6
+Waiting: (Arrival: 10, service: 3)(Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+
+Time: 7
+Waiting: (Arrival: 10, service: 3)(Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+
+Time: 8
+Waiting: (Arrival: 10, service: 3)(Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+
+Time: 9
+Waiting: (Arrival: 10, service: 3)(Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+
+Time: 10
+Waiting: (Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[(Arrival: 10, service: 3)]
+Queue 2: tasks=[]
+
+Time: 11
+Waiting: (Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[(Arrival: 10, service: 2)]
+Queue 2: tasks=[]
+
+Time: 12
+Waiting: (Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[(Arrival: 10, service: 1)]
+Queue 2: tasks=[]
+
+Time: 13
+Waiting: (Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+
+Time: 14
+Waiting: (Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+
+Time: 15
+Waiting: (Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+
+Time: 16
+Waiting: (Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+
+Time: 17
+Waiting: (Arrival: 18, service: 3)(Arrival: 18, service: 2)(Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+
+Time: 18
+Waiting: (Arrival: 22, service: 3)
+Queue 1: tasks=[(Arrival: 18, service: 2)]
+Queue 2: tasks=[(Arrival: 18, service: 3)]
+
+Time: 19
+Waiting: (Arrival: 22, service: 3)
+Queue 1: tasks=[(Arrival: 18, service: 1)]
+Queue 2: tasks=[(Arrival: 18, service: 2)]
+
+Time: 20
+Waiting: (Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[(Arrival: 18, service: 1)]
+
+Time: 21
+Waiting: (Arrival: 22, service: 3)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+
+Time: 22
+Waiting: 
+Queue 1: tasks=[]
+Queue 2: tasks=[(Arrival: 22, service: 3)]
+
+Time: 23
+Waiting: 
+Queue 1: tasks=[]
+Queue 2: tasks=[(Arrival: 22, service: 2)]
+
+Time: 24
+Waiting: 
+Queue 1: tasks=[]
+Queue 2: tasks=[(Arrival: 22, service: 1)]
+Averege waiting time: 0.09016393
+Average service time: 2.75

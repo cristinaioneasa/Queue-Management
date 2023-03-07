@@ -1,0 +1,362 @@
+
+Time: 0
+Waiting: (Arrival: 2, service: 3)(Arrival: 2, service: 1)(Arrival: 2, service: 6)(Arrival: 4, service: 1)(Arrival: 4, service: 2)(Arrival: 5, service: 1)(Arrival: 5, service: 5)(Arrival: 5, service: 2)(Arrival: 7, service: 4)(Arrival: 8, service: 3)(Arrival: 11, service: 1)(Arrival: 12, service: 4)(Arrival: 12, service: 6)(Arrival: 14, service: 4)(Arrival: 14, service: 1)(Arrival: 15, service: 1)(Arrival: 15, service: 3)(Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+Queue 3: tasks=[]
+Queue 4: tasks=[]
+Queue 5: tasks=[]
+
+Time: 1
+Waiting: (Arrival: 2, service: 3)(Arrival: 2, service: 1)(Arrival: 2, service: 6)(Arrival: 4, service: 1)(Arrival: 4, service: 2)(Arrival: 5, service: 1)(Arrival: 5, service: 5)(Arrival: 5, service: 2)(Arrival: 7, service: 4)(Arrival: 8, service: 3)(Arrival: 11, service: 1)(Arrival: 12, service: 4)(Arrival: 12, service: 6)(Arrival: 14, service: 4)(Arrival: 14, service: 1)(Arrival: 15, service: 1)(Arrival: 15, service: 3)(Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+Queue 3: tasks=[]
+Queue 4: tasks=[]
+Queue 5: tasks=[]
+
+Time: 2
+Waiting: (Arrival: 4, service: 1)(Arrival: 4, service: 2)(Arrival: 5, service: 1)(Arrival: 5, service: 5)(Arrival: 5, service: 2)(Arrival: 7, service: 4)(Arrival: 8, service: 3)(Arrival: 11, service: 1)(Arrival: 12, service: 4)(Arrival: 12, service: 6)(Arrival: 14, service: 4)(Arrival: 14, service: 1)(Arrival: 15, service: 1)(Arrival: 15, service: 3)(Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 2, service: 3)]
+Queue 2: tasks=[(Arrival: 2, service: 1)]
+Queue 3: tasks=[(Arrival: 2, service: 6)]
+Queue 4: tasks=[]
+Queue 5: tasks=[]
+
+Time: 3
+Waiting: (Arrival: 4, service: 1)(Arrival: 4, service: 2)(Arrival: 5, service: 1)(Arrival: 5, service: 5)(Arrival: 5, service: 2)(Arrival: 7, service: 4)(Arrival: 8, service: 3)(Arrival: 11, service: 1)(Arrival: 12, service: 4)(Arrival: 12, service: 6)(Arrival: 14, service: 4)(Arrival: 14, service: 1)(Arrival: 15, service: 1)(Arrival: 15, service: 3)(Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 2, service: 2)]
+Queue 2: tasks=[]
+Queue 3: tasks=[(Arrival: 2, service: 5)]
+Queue 4: tasks=[]
+Queue 5: tasks=[]
+
+Time: 4
+Waiting: (Arrival: 5, service: 1)(Arrival: 5, service: 5)(Arrival: 5, service: 2)(Arrival: 7, service: 4)(Arrival: 8, service: 3)(Arrival: 11, service: 1)(Arrival: 12, service: 4)(Arrival: 12, service: 6)(Arrival: 14, service: 4)(Arrival: 14, service: 1)(Arrival: 15, service: 1)(Arrival: 15, service: 3)(Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 2, service: 1)]
+Queue 2: tasks=[(Arrival: 4, service: 1)]
+Queue 3: tasks=[(Arrival: 2, service: 4)]
+Queue 4: tasks=[(Arrival: 4, service: 2)]
+Queue 5: tasks=[]
+
+Time: 5
+Waiting: (Arrival: 7, service: 4)(Arrival: 8, service: 3)(Arrival: 11, service: 1)(Arrival: 12, service: 4)(Arrival: 12, service: 6)(Arrival: 14, service: 4)(Arrival: 14, service: 1)(Arrival: 15, service: 1)(Arrival: 15, service: 3)(Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[]
+Queue 2: tasks=[(Arrival: 5, service: 1), (Arrival: 5, service: 2)]
+Queue 3: tasks=[(Arrival: 2, service: 3)]
+Queue 4: tasks=[(Arrival: 4, service: 1)]
+Queue 5: tasks=[(Arrival: 5, service: 5)]
+
+Time: 6
+Waiting: (Arrival: 7, service: 4)(Arrival: 8, service: 3)(Arrival: 11, service: 1)(Arrival: 12, service: 4)(Arrival: 12, service: 6)(Arrival: 14, service: 4)(Arrival: 14, service: 1)(Arrival: 15, service: 1)(Arrival: 15, service: 3)(Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[]
+Queue 2: tasks=[(Arrival: 5, service: 2)]
+Queue 3: tasks=[(Arrival: 2, service: 2)]
+Queue 4: tasks=[]
+Queue 5: tasks=[(Arrival: 5, service: 4)]
+
+Time: 7
+Waiting: (Arrival: 8, service: 3)(Arrival: 11, service: 1)(Arrival: 12, service: 4)(Arrival: 12, service: 6)(Arrival: 14, service: 4)(Arrival: 14, service: 1)(Arrival: 15, service: 1)(Arrival: 15, service: 3)(Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[]
+Queue 2: tasks=[(Arrival: 5, service: 1)]
+Queue 3: tasks=[(Arrival: 2, service: 1)]
+Queue 4: tasks=[(Arrival: 7, service: 4)]
+Queue 5: tasks=[(Arrival: 5, service: 3)]
+
+Time: 8
+Waiting: (Arrival: 11, service: 1)(Arrival: 12, service: 4)(Arrival: 12, service: 6)(Arrival: 14, service: 4)(Arrival: 14, service: 1)(Arrival: 15, service: 1)(Arrival: 15, service: 3)(Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[]
+Queue 2: tasks=[(Arrival: 8, service: 3)]
+Queue 3: tasks=[]
+Queue 4: tasks=[(Arrival: 7, service: 3)]
+Queue 5: tasks=[(Arrival: 5, service: 2)]
+
+Time: 9
+Waiting: (Arrival: 11, service: 1)(Arrival: 12, service: 4)(Arrival: 12, service: 6)(Arrival: 14, service: 4)(Arrival: 14, service: 1)(Arrival: 15, service: 1)(Arrival: 15, service: 3)(Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[]
+Queue 2: tasks=[(Arrival: 8, service: 2)]
+Queue 3: tasks=[]
+Queue 4: tasks=[(Arrival: 7, service: 2)]
+Queue 5: tasks=[(Arrival: 5, service: 1)]
+
+Time: 10
+Waiting: (Arrival: 11, service: 1)(Arrival: 12, service: 4)(Arrival: 12, service: 6)(Arrival: 14, service: 4)(Arrival: 14, service: 1)(Arrival: 15, service: 1)(Arrival: 15, service: 3)(Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[]
+Queue 2: tasks=[(Arrival: 8, service: 1)]
+Queue 3: tasks=[]
+Queue 4: tasks=[(Arrival: 7, service: 1)]
+Queue 5: tasks=[]
+
+Time: 11
+Waiting: (Arrival: 12, service: 4)(Arrival: 12, service: 6)(Arrival: 14, service: 4)(Arrival: 14, service: 1)(Arrival: 15, service: 1)(Arrival: 15, service: 3)(Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 11, service: 1)]
+Queue 2: tasks=[]
+Queue 3: tasks=[]
+Queue 4: tasks=[]
+Queue 5: tasks=[]
+
+Time: 12
+Waiting: (Arrival: 14, service: 4)(Arrival: 14, service: 1)(Arrival: 15, service: 1)(Arrival: 15, service: 3)(Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 12, service: 4)]
+Queue 2: tasks=[(Arrival: 12, service: 6)]
+Queue 3: tasks=[]
+Queue 4: tasks=[]
+Queue 5: tasks=[]
+
+Time: 13
+Waiting: (Arrival: 14, service: 4)(Arrival: 14, service: 1)(Arrival: 15, service: 1)(Arrival: 15, service: 3)(Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 12, service: 3)]
+Queue 2: tasks=[(Arrival: 12, service: 5)]
+Queue 3: tasks=[]
+Queue 4: tasks=[]
+Queue 5: tasks=[]
+
+Time: 14
+Waiting: (Arrival: 15, service: 1)(Arrival: 15, service: 3)(Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 12, service: 2)]
+Queue 2: tasks=[(Arrival: 12, service: 4)]
+Queue 3: tasks=[]
+Queue 4: tasks=[(Arrival: 14, service: 4)]
+Queue 5: tasks=[(Arrival: 14, service: 1)]
+
+Time: 15
+Waiting: (Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 12, service: 1)]
+Queue 2: tasks=[(Arrival: 12, service: 3)]
+Queue 3: tasks=[(Arrival: 15, service: 3)]
+Queue 4: tasks=[(Arrival: 14, service: 3)]
+Queue 5: tasks=[(Arrival: 15, service: 1)]
+
+Time: 16
+Waiting: (Arrival: 17, service: 2)(Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[]
+Queue 2: tasks=[(Arrival: 12, service: 2)]
+Queue 3: tasks=[(Arrival: 15, service: 2)]
+Queue 4: tasks=[(Arrival: 14, service: 2)]
+Queue 5: tasks=[]
+
+Time: 17
+Waiting: (Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[]
+Queue 2: tasks=[(Arrival: 12, service: 1)]
+Queue 3: tasks=[(Arrival: 15, service: 1)]
+Queue 4: tasks=[(Arrival: 14, service: 1)]
+Queue 5: tasks=[(Arrival: 17, service: 2)]
+
+Time: 18
+Waiting: (Arrival: 19, service: 2)(Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+Queue 3: tasks=[]
+Queue 4: tasks=[]
+Queue 5: tasks=[(Arrival: 17, service: 1)]
+
+Time: 19
+Waiting: (Arrival: 20, service: 3)(Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 19, service: 2)]
+Queue 2: tasks=[]
+Queue 3: tasks=[]
+Queue 4: tasks=[]
+Queue 5: tasks=[]
+
+Time: 20
+Waiting: (Arrival: 21, service: 1)(Arrival: 21, service: 1)(Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 19, service: 1)]
+Queue 2: tasks=[]
+Queue 3: tasks=[]
+Queue 4: tasks=[]
+Queue 5: tasks=[(Arrival: 20, service: 3)]
+
+Time: 21
+Waiting: (Arrival: 22, service: 1)(Arrival: 22, service: 3)(Arrival: 22, service: 6)(Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 21, service: 1), (Arrival: 21, service: 1)]
+Queue 2: tasks=[]
+Queue 3: tasks=[]
+Queue 4: tasks=[]
+Queue 5: tasks=[(Arrival: 20, service: 2)]
+
+Time: 22
+Waiting: (Arrival: 23, service: 3)(Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 21, service: 1), (Arrival: 22, service: 1)]
+Queue 2: tasks=[]
+Queue 3: tasks=[(Arrival: 22, service: 3)]
+Queue 4: tasks=[(Arrival: 22, service: 6)]
+Queue 5: tasks=[(Arrival: 20, service: 1)]
+
+Time: 23
+Waiting: (Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 22, service: 1), (Arrival: 23, service: 3)]
+Queue 2: tasks=[]
+Queue 3: tasks=[(Arrival: 22, service: 2)]
+Queue 4: tasks=[(Arrival: 22, service: 5)]
+Queue 5: tasks=[]
+
+Time: 24
+Waiting: (Arrival: 25, service: 1)(Arrival: 25, service: 5)(Arrival: 25, service: 5)(Arrival: 25, service: 3)(Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 23, service: 3)]
+Queue 2: tasks=[]
+Queue 3: tasks=[(Arrival: 22, service: 1)]
+Queue 4: tasks=[(Arrival: 22, service: 4)]
+Queue 5: tasks=[]
+
+Time: 25
+Waiting: (Arrival: 26, service: 4)(Arrival: 26, service: 6)(Arrival: 26, service: 1)(Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 23, service: 2), (Arrival: 25, service: 3)]
+Queue 2: tasks=[(Arrival: 25, service: 5)]
+Queue 3: tasks=[]
+Queue 4: tasks=[(Arrival: 22, service: 3)]
+Queue 5: tasks=[(Arrival: 25, service: 1), (Arrival: 25, service: 5)]
+
+Time: 26
+Waiting: (Arrival: 27, service: 3)(Arrival: 27, service: 2)(Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 23, service: 1), (Arrival: 25, service: 3), (Arrival: 26, service: 6)]
+Queue 2: tasks=[(Arrival: 25, service: 4)]
+Queue 3: tasks=[(Arrival: 26, service: 4)]
+Queue 4: tasks=[(Arrival: 22, service: 2)]
+Queue 5: tasks=[(Arrival: 25, service: 5), (Arrival: 26, service: 1)]
+
+Time: 27
+Waiting: (Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 25, service: 3), (Arrival: 26, service: 6)]
+Queue 2: tasks=[(Arrival: 25, service: 3), (Arrival: 27, service: 3)]
+Queue 3: tasks=[(Arrival: 26, service: 3), (Arrival: 27, service: 2)]
+Queue 4: tasks=[(Arrival: 22, service: 1)]
+Queue 5: tasks=[(Arrival: 25, service: 4), (Arrival: 26, service: 1)]
+
+Time: 28
+Waiting: (Arrival: 29, service: 3)(Arrival: 29, service: 6)(Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 25, service: 2), (Arrival: 26, service: 6)]
+Queue 2: tasks=[(Arrival: 25, service: 2), (Arrival: 27, service: 3)]
+Queue 3: tasks=[(Arrival: 26, service: 2), (Arrival: 27, service: 2)]
+Queue 4: tasks=[]
+Queue 5: tasks=[(Arrival: 25, service: 3), (Arrival: 26, service: 1)]
+
+Time: 29
+Waiting: (Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 25, service: 1), (Arrival: 26, service: 6)]
+Queue 2: tasks=[(Arrival: 25, service: 1), (Arrival: 27, service: 3)]
+Queue 3: tasks=[(Arrival: 26, service: 1), (Arrival: 27, service: 2)]
+Queue 4: tasks=[(Arrival: 29, service: 3)]
+Queue 5: tasks=[(Arrival: 25, service: 2), (Arrival: 26, service: 1), (Arrival: 29, service: 6)]
+
+Time: 30
+Waiting: (Arrival: 31, service: 1)(Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 26, service: 6)]
+Queue 2: tasks=[(Arrival: 27, service: 3)]
+Queue 3: tasks=[(Arrival: 27, service: 2)]
+Queue 4: tasks=[(Arrival: 29, service: 2)]
+Queue 5: tasks=[(Arrival: 25, service: 1), (Arrival: 26, service: 1), (Arrival: 29, service: 6)]
+
+Time: 31
+Waiting: (Arrival: 32, service: 2)(Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 26, service: 5)]
+Queue 2: tasks=[(Arrival: 27, service: 2)]
+Queue 3: tasks=[(Arrival: 27, service: 1), (Arrival: 31, service: 1)]
+Queue 4: tasks=[(Arrival: 29, service: 1)]
+Queue 5: tasks=[(Arrival: 26, service: 1), (Arrival: 29, service: 6)]
+
+Time: 32
+Waiting: (Arrival: 33, service: 5)(Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 26, service: 4)]
+Queue 2: tasks=[(Arrival: 27, service: 1)]
+Queue 3: tasks=[(Arrival: 31, service: 1), (Arrival: 32, service: 2)]
+Queue 4: tasks=[]
+Queue 5: tasks=[(Arrival: 29, service: 6)]
+
+Time: 33
+Waiting: (Arrival: 34, service: 3)(Arrival: 34, service: 3)(Arrival: 34, service: 1)(Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 26, service: 3)]
+Queue 2: tasks=[(Arrival: 33, service: 5)]
+Queue 3: tasks=[(Arrival: 32, service: 2)]
+Queue 4: tasks=[]
+Queue 5: tasks=[(Arrival: 29, service: 5)]
+
+Time: 34
+Waiting: (Arrival: 35, service: 5)(Arrival: 35, service: 4)(Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 26, service: 2), (Arrival: 34, service: 1)]
+Queue 2: tasks=[(Arrival: 33, service: 4)]
+Queue 3: tasks=[(Arrival: 32, service: 1), (Arrival: 34, service: 3)]
+Queue 4: tasks=[(Arrival: 34, service: 3)]
+Queue 5: tasks=[(Arrival: 29, service: 4)]
+
+Time: 35
+Waiting: (Arrival: 36, service: 2)(Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 26, service: 1), (Arrival: 34, service: 1), (Arrival: 35, service: 5)]
+Queue 2: tasks=[(Arrival: 33, service: 3)]
+Queue 3: tasks=[(Arrival: 34, service: 3), (Arrival: 35, service: 4)]
+Queue 4: tasks=[(Arrival: 34, service: 2)]
+Queue 5: tasks=[(Arrival: 29, service: 3)]
+
+Time: 36
+Waiting: (Arrival: 37, service: 6)(Arrival: 37, service: 6)(Arrival: 37, service: 3)(Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 34, service: 1), (Arrival: 35, service: 5)]
+Queue 2: tasks=[(Arrival: 33, service: 2)]
+Queue 3: tasks=[(Arrival: 34, service: 2), (Arrival: 35, service: 4)]
+Queue 4: tasks=[(Arrival: 34, service: 1), (Arrival: 36, service: 2)]
+Queue 5: tasks=[(Arrival: 29, service: 2)]
+
+Time: 37
+Waiting: (Arrival: 38, service: 2)
+Queue 1: tasks=[(Arrival: 35, service: 5)]
+Queue 2: tasks=[(Arrival: 33, service: 1), (Arrival: 37, service: 3)]
+Queue 3: tasks=[(Arrival: 34, service: 1), (Arrival: 35, service: 4)]
+Queue 4: tasks=[(Arrival: 36, service: 2), (Arrival: 37, service: 6)]
+Queue 5: tasks=[(Arrival: 29, service: 1), (Arrival: 37, service: 6)]
+
+Time: 38
+Waiting: 
+Queue 1: tasks=[(Arrival: 35, service: 4), (Arrival: 38, service: 2)]
+Queue 2: tasks=[(Arrival: 37, service: 3)]
+Queue 3: tasks=[(Arrival: 35, service: 4)]
+Queue 4: tasks=[(Arrival: 36, service: 1), (Arrival: 37, service: 6)]
+Queue 5: tasks=[(Arrival: 37, service: 6)]
+
+Time: 39
+Waiting: 
+Queue 1: tasks=[(Arrival: 35, service: 3), (Arrival: 38, service: 2)]
+Queue 2: tasks=[(Arrival: 37, service: 2)]
+Queue 3: tasks=[(Arrival: 35, service: 3)]
+Queue 4: tasks=[(Arrival: 37, service: 6)]
+Queue 5: tasks=[(Arrival: 37, service: 5)]
+
+Time: 40
+Waiting: 
+Queue 1: tasks=[(Arrival: 35, service: 2), (Arrival: 38, service: 2)]
+Queue 2: tasks=[(Arrival: 37, service: 1)]
+Queue 3: tasks=[(Arrival: 35, service: 2)]
+Queue 4: tasks=[(Arrival: 37, service: 5)]
+Queue 5: tasks=[(Arrival: 37, service: 4)]
+
+Time: 41
+Waiting: 
+Queue 1: tasks=[(Arrival: 35, service: 1), (Arrival: 38, service: 2)]
+Queue 2: tasks=[]
+Queue 3: tasks=[(Arrival: 35, service: 1)]
+Queue 4: tasks=[(Arrival: 37, service: 4)]
+Queue 5: tasks=[(Arrival: 37, service: 3)]
+
+Time: 42
+Waiting: 
+Queue 1: tasks=[(Arrival: 38, service: 2)]
+Queue 2: tasks=[]
+Queue 3: tasks=[]
+Queue 4: tasks=[(Arrival: 37, service: 3)]
+Queue 5: tasks=[(Arrival: 37, service: 2)]
+
+Time: 43
+Waiting: 
+Queue 1: tasks=[(Arrival: 38, service: 1)]
+Queue 2: tasks=[]
+Queue 3: tasks=[]
+Queue 4: tasks=[(Arrival: 37, service: 2)]
+Queue 5: tasks=[(Arrival: 37, service: 1)]
+
+Time: 44
+Waiting: 
+Queue 1: tasks=[]
+Queue 2: tasks=[]
+Queue 3: tasks=[]
+Queue 4: tasks=[(Arrival: 37, service: 1)]
+Queue 5: tasks=[]
+Averege waiting time: 0.49836066
+Average service time: 3.04
